@@ -1,7 +1,0 @@
-Salvar Links Tech
-
-1 - Extrair dados de um site com web crawler
-2 - Formatar dados em JSON
-3 - Adicionar os dados em um banco de dados
-4 - Construir interface
-5 - Adicionar o excluir e atualizar os dados
